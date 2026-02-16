@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ankur Bhati
 
-### Frontend Developer | React • Next.js • TypeScript
+### Frontend Developer | React • Next.js • React Native • TypeScript • Javascript
 
 I build fast, scalable and clean web applications focused on **performance, UI/UX and real-world usability**.
 Currently working as a **Frontend Developer** and continuously improving my skills in modern frontend architecture.
