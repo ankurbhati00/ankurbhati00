@@ -32,16 +32,6 @@ Currently working as a **Frontend Developer** and continuously improving my skil
 
 ---
 
-## 🧠 What I Focus On
-
-* Performance Optimization
-* Scalable Frontend Architecture
-* Reusable Component Design
-* Clean & Maintainable Code
-* User Experience & Responsiveness
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -70,10 +60,13 @@ Currently working as a **Frontend Developer** and continuously improving my skil
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 What I Focus On
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankurbhati00\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbhati00\&layout=compact\&theme=tokyonight)
+* Performance Optimization
+* Scalable Frontend Architecture
+* Reusable Component Design
+* Clean & Maintainable Code
+* User Experience & Responsiveness
 
 ---
 
