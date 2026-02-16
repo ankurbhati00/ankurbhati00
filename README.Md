@@ -36,37 +36,18 @@ Currently working as a **Frontend Developer** and continuously improving my skil
 
 ### Frontend
 
-* React.js
-* Next.js
-* React Native
-* TypeScript
-* JavaScript
-* HTML5 / CSS3
-* Tailwind CSS
-* Shadcn UI
-* Ant Design
+* React.js * Next.js * React Native * TypeScript * JavaScript
+* HTML5 / CSS3 * Tailwind CSS * Shadcn UI * Ant Design
 
 ### State & Data
 
-* Zustand
-* Redux
+* Zustand * Redux
 * TanStack Query (React Query)
 
 ### Visualization & Tools
 
-* Apache ECharts
-* React Flow
+* Apache ECharts * React Flow
 * Git & GitHub
-
----
-
-## 🧠 What I Focus On
-
-* Performance Optimization
-* Scalable Frontend Architecture
-* Reusable Component Design
-* Clean & Maintainable Code
-* User Experience & Responsiveness
 
 ---
 
@@ -74,9 +55,3 @@ Currently working as a **Frontend Developer** and continuously improving my skil
 
 * 📧 [ankurbhati9027@gmail.com](mailto:ankurbhati9027@gmail.com)
 * 📱 +91 9027554085
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning complex problems into simple and intuitive interfaces.
