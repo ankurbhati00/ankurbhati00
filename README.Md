@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ankur Bhati
 
-### Frontend Developer | React • Next.js • React Native • TypeScript • Javascript
+### Frontend Developer | React.js • Next.js • React Native • TypeScript • Javascript
 
 I build fast, scalable and clean web applications focused on **performance, UI/UX and real-world usability**.
 Currently working as a **Frontend Developer** and continuously improving my skills in modern frontend architecture.
@@ -15,20 +15,6 @@ Currently working as a **Frontend Developer** and continuously improving my skil
 * 🧠 Focused on performance optimization & clean code
 * 📍 Gurugram, India
 * 🎯 Goal: Become a high-level Frontend Engineer
-
----
-## 💼 Work Experience
-
-### Frontend Developer — Intozi Tech Pvt. Ltd.
-
-**Jan 2024 – Present | Gurugram**
-
-* Built a **real-time analytics dashboard** using Apache ECharts
-* Implemented dynamic filtering & live data visualization
-* Developed real-time event tracking system using React Flow
-* Improved app performance by **~30%** using TanStack Query caching & Zustand state management
-* Created scalable Next.js application using **SSR & ISR**
-* Implemented **Single Sign-On (SSO)** authentication system
 
 ---
 
