@@ -17,6 +17,30 @@ Currently working as a **Frontend Developer** and continuously improving my skil
 * 🎯 Goal: Become a high-level Frontend Engineer
 
 ---
+## 💼 Work Experience
+
+### Frontend Developer — Intozi Tech Pvt. Ltd.
+
+**Jan 2024 – Present | Gurugram**
+
+* Built a **real-time analytics dashboard** using Apache ECharts
+* Implemented dynamic filtering & live data visualization
+* Developed real-time event tracking system using React Flow
+* Improved app performance by **~30%** using TanStack Query caching & Zustand state management
+* Created scalable Next.js application using **SSR & ISR**
+* Implemented **Single Sign-On (SSO)** authentication system
+
+---
+
+## 🧠 What I Focus On
+
+* Performance Optimization
+* Scalable Frontend Architecture
+* Reusable Component Design
+* Clean & Maintainable Code
+* User Experience & Responsiveness
+
+---
 
 ## 🛠 Tech Stack
 
@@ -46,34 +70,7 @@ Currently working as a **Frontend Developer** and continuously improving my skil
 
 ---
 
-## 💼 Work Experience
-
-### Frontend Developer — Intozi Tech Pvt. Ltd.
-
-**Jan 2024 – Present | Gurugram**
-
-* Built a **real-time analytics dashboard** using Apache ECharts
-* Implemented dynamic filtering & live data visualization
-* Developed real-time event tracking system using React Flow
-* Improved app performance by **~30%** using TanStack Query caching & Zustand state management
-* Created scalable Next.js application using **SSR & ISR**
-* Implemented **Single Sign-On (SSO)** authentication system
-
----
-
-## 🧠 What I Focus On
-
-* Performance Optimization
-* Scalable Frontend Architecture
-* Reusable Component Design
-* Clean & Maintainable Code
-* User Experience & Responsiveness
-
----
-
 ## 📊 GitHub Stats
-
-*(These automatically work after uploading)*
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankurbhati00\&show_icons=true\&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurbhati00\&layout=compact\&theme=tokyonight)
