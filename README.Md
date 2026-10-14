@@ -9,7 +9,7 @@ Currently working as a **Frontend Developer** and continuously improving my skil
 
 ## 🚀 About Me
 
-* 💻 Frontend Developer with 2+ years experience
+* 💻 Frontend Developer with 3 years experience
 * ⚛️ Specialized in React ecosystem & modern web architecture
 * 📊 Love building dashboards & data-visualization systems
 * 🧠 Focused on performance optimization & clean code
